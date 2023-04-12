@@ -38,3 +38,24 @@ nav ul li a {
 main {
     padding: 20px;
 }
+
+.slider {
+    display: flex;
+    overflow: auto;
+}
+
+.slider img {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-image {
+    text-align: center;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+
